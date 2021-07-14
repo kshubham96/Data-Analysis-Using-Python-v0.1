@@ -4,3 +4,8 @@ Machine Learning Algorithms like KNN and Logistic Regression are performed on th
 # Module-2
 Basic Manipulation of the data using python functions and libraries.
 
+# Untitled
+Using numpy library.
+
+# Simpli-Learn
+Data Manipulation using pandas, numpy. Data Visualization using matplotlib.
